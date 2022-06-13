@@ -1,0 +1,23 @@
+.noCartMsg-Container{
+    display:flex;
+    width: 100vw;
+    height:500px;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.cartTotal{
+    display: flex;
+    width: 600px;
+    height: 70px;
+    margin-left: 60px;
+    margin-top: 50px;
+    align-items: center;
+}
+
+.table-container{
+    margin-top: 50px;
+    margin-left: 60px;
+    margin-right: 100px;
+}
